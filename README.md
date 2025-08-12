@@ -94,15 +94,15 @@ However, scaling also brings challenges, including increased computational costs
 
 Key Features:
 
-Self-Attention – Evaluates the importance of each token relative to others in the input sequence.
+-Self-Attention – Evaluates the importance of each token relative to others in the input sequence.
 
-Multi-Head Attention – Processes multiple attention patterns in parallel to capture varied relationships.
+-Multi-Head Attention – Processes multiple attention patterns in parallel to capture varied relationships.
 
-Encoder–Decoder Structure – Encoders map inputs to a latent representation; decoders generate outputs from it.
+-Encoder–Decoder Structure – Encoders map inputs to a latent representation; decoders generate outputs from it.
 
-Transformers are now used beyond text—powering models in image generation (e.g., Vision Transformers) and diffusion-based architectures for high-quality media creation.
+-Transformers are now used beyond text—powering models in image generation (e.g., Vision Transformers) and diffusion-based architectures for high-quality media creation.
 
-Applications of Generative AI
+## Applications of Generative AI
 Generative AI has widespread use across industries:
 
 Content Creation – Producing text, images, videos, music, and product designs.
@@ -118,23 +118,24 @@ Code Generation – Writing functional code from natural language instructions.
 Impact of Scaling in LLMs
 Scaling Large Language Models (LLMs) by increasing parameters, training data, and compute power significantly enhances their capabilities:
 
-Benefits:
+## Benefits:
 
-Emergent Abilities – Skills such as in-context learning, reasoning, and complex instruction following.
+-Emergent Abilities – Skills such as in-context learning, reasoning, and complex instruction following.
 
-Improved Fluency & Coherence – Text that reads more naturally and maintains logical flow.
+-Improved Fluency & Coherence – Text that reads more naturally and maintains logical flow.
 
-Better Contextual Understanding – Maintaining context over long conversations or documents.
+-Better Contextual Understanding – Maintaining context over long conversations or documents.
 
-Stronger Generalization – Performing well across varied domains and tasks.
+-Stronger Generalization – Performing well across varied domains and tasks.
 
-Challenges:
+## Challenges:
 
-High computational and energy demands.
+-High computational and energy demands.
 
-Larger memory requirements.
+-Larger memory requirements.
 
-Amplification of training data biases.
+-Amplification of training data biases.
+
 <img width="1024" height="631" alt="image" src="https://github.com/user-attachments/assets/3710f6be-38fc-493b-968d-6deb3f50b2fc" />
 
 
